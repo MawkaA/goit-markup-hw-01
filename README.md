@@ -1,3 +1,3 @@
 # goit-markup-hw-01
 hw #1
-http://127.0.0.1:5500/index.html
+https://mawkaa.github.io/goit-markup-hw-01/
